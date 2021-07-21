@@ -1,0 +1,15 @@
+.button1{
+    width: 130px;
+    background-color: #F8F8F8;
+    border: 2px solid #4CAF50;
+    color: #4CAF50;;
+    border-radius: 10px;
+    height: 25px;
+}
+.w3-button{
+border-radius: 50%;
+background-color: mediumseagreen;
+border: 2px solid #4CAF50;
+color: white;
+grid-column-gap: 10px
+}
